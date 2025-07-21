@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Ryan S.
+
 ## Experience
 
 ### Security engineer
@@ -36,7 +38,7 @@ Several publications on the Taurus blog on Tokenization and cross-chain bridge (
 - Uni: HEIG-VD
 - Year: 2018 &mdash; 2022
 - Association: Co-Founder and Member of the Y-CTF Committee (CTF Club of HEIG-VD)
-- Summary: The IS orientation trains engineers with advanced skills in security to give them a global "attack-defence" vision of computer systems. These specialists analyse the security of complex computer systems (threat analysis and intrusion tests), design secure architectures, select and develop the appropriate protection measures.
+- Summary: The IS orientation trains engineers with advanced skills in security to give them a global "attack-defense" vision of computer systems. These specialists analyze the security of complex computer systems (threat analysis and intrusion tests), design secure architectures, select and develop the appropriate protection measures.
 
 
 
@@ -48,10 +50,10 @@ Several publications on the Taurus blog on Tokenization and cross-chain bridge (
 
 > Security token framework to tokenize financial instruments on Ethereum and EVM compatible blockchain.
 
-Project: CMTAT [Solidity]
-Role: Smart Contract Developer
-Duration: 2022 &mdash; Present
-url: https://github.com/CMTA/CMTAT
+- Project: CMTAT [Solidity]
+- Role: Smart Contract Developer
+- Duration: 2022 &mdash; Present
+- url: [https://github.com/CMTA/CMTAT](https://github.com/CMTA/CMTAT)
 
 **Skills:** Solidity · EVM · Ethereum
 
@@ -59,10 +61,10 @@ url: https://github.com/CMTA/CMTAT
 
 > Study of the CCIP cross-chain bridge by Chainlink with the transfer of USDC between different blockchains as proof-of-concept
 
-Role: Smart Contract Developer
-Duration: 12/2023 &mdash; 05/2024
-Url: [https://github.com/taurushq-io/tg-bridge-contracts-CCIP](https://github.com/taurushq-io/tg-bridge-contracts-CCIP)
-Two articles were published on the Taurus blog, as well as a github project (Sender contract to interact with CCIP).
+- Role: Smart Contract Developer
+- Duration: 12/2023 &mdash; 05/2024
+- Url: [https://github.com/taurushq-io/tg-bridge-contracts-CCIP](https://github.com/taurushq-io/tg-bridge-contracts-CCIP)
+- Two articles were published on the Taurus blog, as well as a github project (Sender contract to interact with CCIP).
 
 **Skills:** Solidity · CCIP · Chainlink · cross-chain bridge · Stablecoin
 
@@ -70,10 +72,10 @@ Two articles were published on the Taurus blog, as well as a github project (Sen
 
 > IncomeVault to distribute dividend on-chain, build with CMTAT
 
-Role: Smart Contract Developer
-Duration: 12/2023 &mdash; 05/2024
-URL: [https://github.com/CMTA/IncomeVault](https://github.com/CMTA/IncomeVault)
-Publish a blog post on Taurus blog describing the architecture":" <a href="https://www.taurushq.com/blog/equity-tokenization-how-to-pay-dividend-on-chain-using-cmtat/">Equity Tokenization - How to Pay Dividend On-Chain Using CMTAT</a>
+- Role: Smart Contract Developer
+- Duration: 12/2023 &mdash; 05/2024
+- URL: [https://github.com/CMTA/IncomeVault](https://github.com/CMTA/IncomeVault)
+- Publish a blog post on Taurus blog describing the architecture: <a href="https://www.taurushq.com/blog/equity-tokenization-how-to-pay-dividend-on-chain-using-cmtat/">Equity Tokenization - How to Pay Dividend On-Chain Using CMTAT</a>
 
 **Skills:** Solidity · Smart Contracts · defi · Foundry · Stablecoin
 
