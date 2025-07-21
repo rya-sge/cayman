@@ -2,122 +2,80 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Experience
 
-[Link to another page](./another-page.html).
+### Security engineer
 
-There should be whitespace between paragraphs.
+- Company: Taurus SA
+- position: Security engineer
+- Duration: 12/2022 - 
+- Summary: 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Development of smart contracts (Solidity) with Foundry, Hardhat and Truffle.
 
-# Header 1
+Analyze of smart contracts written in Solidity and SmartPy(Tezos)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Consultant for clients on issues related to Blockchain and smart contracts
 
-## Header 2
+R&D in cross-chain bridges and new innovations in the field of blockchain (e.g. account abstraction)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Several publications on the Taurus blog on Tokenization and cross-chain bridge (Chainlink CCIP)
 
-### Header 3
+### Penetration Tester
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+- company: Confidential
+- Position: Penetration Tester (external consultant / internship)
+- Duration: 10/2021 - 02/2022
+- Summary: Security audit in a software company carried out as part of a course at HEIG-VD, about 200 hours performed
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## Education
 
-#### Header 4
+### Bachelor of Science
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+- Degree: Bachelor of Science - BS, Information security
+- Uni: HEIG-VD
+- Year: 2018 &mdash; 2022
+- Association: Co-Founder and Member of the Y-CTF Committee (CTF Club of HEIG-VD)
+- Summary: The IS orientation trains engineers with advanced skills in security to give them a global "attack-defence" vision of computer systems. These specialists analyse the security of complex computer systems (threat analysis and intrusion tests), design secure architectures, select and develop the appropriate protection measures.
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+## Project
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+### Smart contract
 
-```
-The final element.
-```
+#### CMTAT [Solidity]
+
+> Security token framework to tokenize financial instruments on Ethereum and EVM compatible blockchain.
+
+Project: CMTAT [Solidity]
+Role: Smart Contract Developer
+Duration: 2022 &mdash; Present
+url: https://github.com/CMTA/CMTAT
+
+**Skills:** Solidity · EVM · Ethereum
+
+#### Chainlink CCIP Sender [Solidity]
+
+> Study of the CCIP cross-chain bridge by Chainlink with the transfer of USDC between different blockchains as proof-of-concept
+
+Role: Smart Contract Developer
+Duration: 12/2023 &mdash; 05/2024
+Url: [https://github.com/taurushq-io/tg-bridge-contracts-CCIP](https://github.com/taurushq-io/tg-bridge-contracts-CCIP)
+Two articles were published on the Taurus blog, as well as a github project (Sender contract to interact with CCIP).
+
+**Skills:** Solidity · CCIP · Chainlink · cross-chain bridge · Stablecoin
+
+#### IncomeVault [Solidity]
+
+> IncomeVault to distribute dividend on-chain, build with CMTAT
+
+Role: Smart Contract Developer
+Duration: 12/2023 &mdash; 05/2024
+URL: [https://github.com/CMTA/IncomeVault](https://github.com/CMTA/IncomeVault)
+Publish a blog post on Taurus blog describing the architecture":" <a href="https://www.taurushq.com/blog/equity-tokenization-how-to-pay-dividend-on-chain-using-cmtat/">Equity Tokenization - How to Pay Dividend On-Chain Using CMTAT</a>
+
+**Skills:** Solidity · Smart Contracts · defi · Foundry · Stablecoin
+
+## Rust
+
